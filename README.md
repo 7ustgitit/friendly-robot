@@ -1,2 +1,1 @@
-# friendly-robot
-input is allowed
+input is allowed; no it isn't
