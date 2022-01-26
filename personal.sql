@@ -1,0 +1,1 @@
+MOVE "/home/ifstatements/site/assets/main.txt" TO "/home/ifstatements/site/scripts"
